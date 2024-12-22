@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/artwebsiteproject/static/css/main.2b2d0f2b.css",
+    "main.js": "/artwebsiteproject/static/js/main.ecc2ad5a.js",
+    "static/media/slide3.png": "/artwebsiteproject/static/media/slide3.e5a716034dd91668b192.png",
+    "static/media/slide2.png": "/artwebsiteproject/static/media/slide2.133fa03fb08c4db773c7.png",
+    "static/media/slide1.jpg": "/artwebsiteproject/static/media/slide1.8d55548a52c68f8a02f9.jpg",
+    "static/media/santeeimg.jpg": "/artwebsiteproject/static/media/santeeimg.68864a8502fcdbe9462f.jpg",
+    "static/media/missionimg.jpg": "/artwebsiteproject/static/media/missionimg.7b6d5a8ae5eabea0e915.jpg",
+    "static/media/paintbrush.png": "/artwebsiteproject/static/media/paintbrush.c606008f24aedbd20daa.png",
+    "static/media/awlHeaderLogo.png": "/artwebsiteproject/static/media/awlHeaderLogo.c889e91a27392dc9df1b.png",
+    "static/media/lamesafront.jpg": "/artwebsiteproject/static/media/lamesafront.57a1eafe64c0008c0eff.jpg",
+    "static/media/bonitaimg.jpeg": "/artwebsiteproject/static/media/bonitaimg.2234c2e70359ca6b23dc.jpeg",
+    "static/media/forestbackground.jpg": "/artwebsiteproject/static/media/forestbackground.44d6205b5b0c47673498.jpg",
+    "index.html": "/artwebsiteproject/index.html",
+    "main.2b2d0f2b.css.map": "/artwebsiteproject/static/css/main.2b2d0f2b.css.map",
+    "main.ecc2ad5a.js.map": "/artwebsiteproject/static/js/main.ecc2ad5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b2d0f2b.css",
+    "static/js/main.ecc2ad5a.js"
+  ]
+}
