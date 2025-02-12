@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.css": "/artwebsiteproject/static/css/main.06f024c8.css",
-    "main.js": "/artwebsiteproject/static/js/main.aea08b2f.js",
+    "main.css": "/artwebsiteproject/static/css/main.04809663.css",
+    "main.js": "/artwebsiteproject/static/js/main.b3721dba.js",
     "static/media/instruc-macie.jpg": "/artwebsiteproject/static/media/instruc-macie.37034b359fbb7f2e6d1c.jpg",
     "static/media/instruc-jessica.jpg": "/artwebsiteproject/static/media/instruc-jessica.f5044e45df0f3ac7756a.jpg",
     "static/media/slide3.png": "/artwebsiteproject/static/media/slide3.e5a716034dd91668b192.png",
     "static/media/slide2.png": "/artwebsiteproject/static/media/slide2.133fa03fb08c4db773c7.png",
     "static/media/instruc-jelisa.jpg": "/artwebsiteproject/static/media/instruc-jelisa.0f416b23438ca1f77de5.jpg",
     "static/media/slide1.jpg": "/artwebsiteproject/static/media/slide1.8d55548a52c68f8a02f9.jpg",
+    "static/media/referafriendpicture.jpg": "/artwebsiteproject/static/media/referafriendpicture.b25b892ab1a7ce743026.jpg",
+    "static/media/santeelocationinside.jpg": "/artwebsiteproject/static/media/santeelocationinside.f30d095cda47127f76f2.jpg",
+    "static/media/lamesalocationinside.jpg": "/artwebsiteproject/static/media/lamesalocationinside.ab65f9cc8ceeb219fd93.jpg",
     "static/media/santeeimg.jpg": "/artwebsiteproject/static/media/santeeimg.68864a8502fcdbe9462f.jpg",
     "static/media/missionimg.jpg": "/artwebsiteproject/static/media/missionimg.7b6d5a8ae5eabea0e915.jpg",
     "static/media/paintbrush.png": "/artwebsiteproject/static/media/paintbrush.c606008f24aedbd20daa.png",
@@ -17,11 +20,11 @@
     "static/media/bonitaimg.jpeg": "/artwebsiteproject/static/media/bonitaimg.2234c2e70359ca6b23dc.jpeg",
     "static/media/forestbackground.jpg": "/artwebsiteproject/static/media/forestbackground.44d6205b5b0c47673498.jpg",
     "index.html": "/artwebsiteproject/index.html",
-    "main.06f024c8.css.map": "/artwebsiteproject/static/css/main.06f024c8.css.map",
-    "main.aea08b2f.js.map": "/artwebsiteproject/static/js/main.aea08b2f.js.map"
+    "main.04809663.css.map": "/artwebsiteproject/static/css/main.04809663.css.map",
+    "main.b3721dba.js.map": "/artwebsiteproject/static/js/main.b3721dba.js.map"
   },
   "entrypoints": [
-    "static/css/main.06f024c8.css",
-    "static/js/main.aea08b2f.js"
+    "static/css/main.04809663.css",
+    "static/js/main.b3721dba.js"
   ]
 }
