@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/artwebsiteproject/static/css/main.b26353c9.css",
-    "main.js": "/artwebsiteproject/static/js/main.c82eec3d.js",
+    "main.js": "/artwebsiteproject/static/js/main.900cd560.js",
     "static/media/instruc-macie.jpg": "/artwebsiteproject/static/media/instruc-macie.37034b359fbb7f2e6d1c.jpg",
     "static/media/instruc-jessica.jpg": "/artwebsiteproject/static/media/instruc-jessica.f5044e45df0f3ac7756a.jpg",
     "static/media/slide3.png": "/artwebsiteproject/static/media/slide3.e5a716034dd91668b192.png",
@@ -23,10 +23,10 @@
     "static/media/forestbackground.jpg": "/artwebsiteproject/static/media/forestbackground.44d6205b5b0c47673498.jpg",
     "index.html": "/artwebsiteproject/index.html",
     "main.b26353c9.css.map": "/artwebsiteproject/static/css/main.b26353c9.css.map",
-    "main.c82eec3d.js.map": "/artwebsiteproject/static/js/main.c82eec3d.js.map"
+    "main.900cd560.js.map": "/artwebsiteproject/static/js/main.900cd560.js.map"
   },
   "entrypoints": [
     "static/css/main.b26353c9.css",
-    "static/js/main.c82eec3d.js"
+    "static/js/main.900cd560.js"
   ]
 }
