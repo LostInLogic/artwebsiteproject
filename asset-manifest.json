@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/artwebsiteproject/static/css/main.1af0d0b4.css",
-    "main.js": "/artwebsiteproject/static/js/main.f1d2811f.js",
+    "main.css": "/artwebsiteproject/static/css/main.2a141fcc.css",
+    "main.js": "/artwebsiteproject/static/js/main.c7f6d3d1.js",
     "static/media/card-back-texture.jpg": "/artwebsiteproject/static/media/card-back-texture.4b66d0bf5e524e2a0afc.jpg",
     "static/media/card-front-texture.jpg": "/artwebsiteproject/static/media/card-front-texture.697c8f12d17d985fce0c.jpg",
     "static/media/paintEvent4.jpg": "/artwebsiteproject/static/media/paintEvent4.fd704482a3741b40ffaa.jpg",
@@ -45,11 +45,11 @@
     "static/media/bonitaimg.jpeg": "/artwebsiteproject/static/media/bonitaimg.2234c2e70359ca6b23dc.jpeg",
     "static/media/forestbackground.jpg": "/artwebsiteproject/static/media/forestbackground.44d6205b5b0c47673498.jpg",
     "index.html": "/artwebsiteproject/index.html",
-    "main.1af0d0b4.css.map": "/artwebsiteproject/static/css/main.1af0d0b4.css.map",
-    "main.f1d2811f.js.map": "/artwebsiteproject/static/js/main.f1d2811f.js.map"
+    "main.2a141fcc.css.map": "/artwebsiteproject/static/css/main.2a141fcc.css.map",
+    "main.c7f6d3d1.js.map": "/artwebsiteproject/static/js/main.c7f6d3d1.js.map"
   },
   "entrypoints": [
-    "static/css/main.1af0d0b4.css",
-    "static/js/main.f1d2811f.js"
+    "static/css/main.2a141fcc.css",
+    "static/js/main.c7f6d3d1.js"
   ]
 }
