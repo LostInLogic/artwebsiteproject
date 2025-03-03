@@ -1,20 +1,17 @@
 {
   "files": {
-    "main.css": "/artwebsiteproject/static/css/main.2a141fcc.css",
-    "main.js": "/artwebsiteproject/static/js/main.c7f6d3d1.js",
+    "main.css": "/artwebsiteproject/static/css/main.566bdf10.css",
+    "main.js": "/artwebsiteproject/static/js/main.d280c04e.js",
     "static/media/card-back-texture.jpg": "/artwebsiteproject/static/media/card-back-texture.4b66d0bf5e524e2a0afc.jpg",
     "static/media/card-front-texture.jpg": "/artwebsiteproject/static/media/card-front-texture.697c8f12d17d985fce0c.jpg",
     "static/media/paintEvent4.jpg": "/artwebsiteproject/static/media/paintEvent4.fd704482a3741b40ffaa.jpg",
     "static/media/instruc-macie.jpg": "/artwebsiteproject/static/media/instruc-macie.37034b359fbb7f2e6d1c.jpg",
     "static/media/instruc-jessica.jpg": "/artwebsiteproject/static/media/instruc-jessica.f5044e45df0f3ac7756a.jpg",
-    "static/media/slide3.png": "/artwebsiteproject/static/media/slide3.e5a716034dd91668b192.png",
     "static/media/paintEvent3.jpg": "/artwebsiteproject/static/media/paintEvent3.8d28b67f52b023eb2dfe.jpg",
-    "static/media/slide2.png": "/artwebsiteproject/static/media/slide2.133fa03fb08c4db773c7.png",
     "static/media/artcamp5.jpg": "/artwebsiteproject/static/media/artcamp5.e800f884c2165911acc1.jpg",
     "static/media/artcamp1.jpg": "/artwebsiteproject/static/media/artcamp1.c42b6d0369981cdd9329.jpg",
     "static/media/instruc-jelisa.jpg": "/artwebsiteproject/static/media/instruc-jelisa.0f416b23438ca1f77de5.jpg",
     "static/media/lizardDrawing.jpg": "/artwebsiteproject/static/media/lizardDrawing.3f263dbe40875938ed6c.jpg",
-    "static/media/slide1.jpg": "/artwebsiteproject/static/media/slide1.8d55548a52c68f8a02f9.jpg",
     "static/media/paintEvent2.jpg": "/artwebsiteproject/static/media/paintEvent2.dd1ca93d40e50aff2221.jpg",
     "static/media/referafriendpicture.jpg": "/artwebsiteproject/static/media/referafriendpicture.b25b892ab1a7ce743026.jpg",
     "static/media/santeelocationinside.jpg": "/artwebsiteproject/static/media/santeelocationinside.f30d095cda47127f76f2.jpg",
@@ -34,22 +31,25 @@
     "static/media/MissionStatementPic1.jpg": "/artwebsiteproject/static/media/MissionStatementPic1.a3791ca0bdb31b5cc3a4.jpg",
     "static/media/artcamp3.JPG": "/artwebsiteproject/static/media/artcamp3.f8e86c82dbf936fab3e8.JPG",
     "static/media/adultPortrait.jpg": "/artwebsiteproject/static/media/adultPortrait.04a8a5a4b2b17bbc6cb5.jpg",
-    "static/media/footerimg.png": "/artwebsiteproject/static/media/footerimg.fbcc8ef5fe432af1077e.png",
     "static/media/girlScoutDrawingPicture.jpg": "/artwebsiteproject/static/media/girlScoutDrawingPicture.a6c97c18a253c956fc10.jpg",
     "static/media/MissionStatementPic4.JPEG": "/artwebsiteproject/static/media/MissionStatementPic4.ed508451db16ebfe0345.JPEG",
+    "static/media/slide3.webp": "/artwebsiteproject/static/media/slide3.45a28112ce2b8d2d887d.webp",
     "static/media/regclasstrialpicture.jpg": "/artwebsiteproject/static/media/regclasstrialpicture.2ccc7d5baaf7bb769395.jpg",
     "static/media/instruc-larisse.jpg": "/artwebsiteproject/static/media/instruc-larisse.d3e58aebe90188d52d60.jpg",
+    "static/media/slide1.webp": "/artwebsiteproject/static/media/slide1.142a912dbc2345520610.webp",
     "static/media/awlHeaderLogo.png": "/artwebsiteproject/static/media/awlHeaderLogo.c889e91a27392dc9df1b.png",
+    "static/media/slide2.webp": "/artwebsiteproject/static/media/slide2.58a2ee036abab3435585.webp",
     "static/media/bdayArtPartyPicture.jpg": "/artwebsiteproject/static/media/bdayArtPartyPicture.d793e98c8d26059f9cb2.jpg",
     "static/media/lamesafront.jpg": "/artwebsiteproject/static/media/lamesafront.57a1eafe64c0008c0eff.jpg",
     "static/media/bonitaimg.jpeg": "/artwebsiteproject/static/media/bonitaimg.2234c2e70359ca6b23dc.jpeg",
     "static/media/forestbackground.jpg": "/artwebsiteproject/static/media/forestbackground.44d6205b5b0c47673498.jpg",
+    "static/media/footerimg.webp": "/artwebsiteproject/static/media/footerimg.60c2526a3d09efcefe34.webp",
     "index.html": "/artwebsiteproject/index.html",
-    "main.2a141fcc.css.map": "/artwebsiteproject/static/css/main.2a141fcc.css.map",
-    "main.c7f6d3d1.js.map": "/artwebsiteproject/static/js/main.c7f6d3d1.js.map"
+    "main.566bdf10.css.map": "/artwebsiteproject/static/css/main.566bdf10.css.map",
+    "main.d280c04e.js.map": "/artwebsiteproject/static/js/main.d280c04e.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a141fcc.css",
-    "static/js/main.c7f6d3d1.js"
+    "static/css/main.566bdf10.css",
+    "static/js/main.d280c04e.js"
   ]
 }
