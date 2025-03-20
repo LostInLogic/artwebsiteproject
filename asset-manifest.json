@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/artwebsiteproject/static/css/main.581ee258.css",
-    "main.js": "/artwebsiteproject/static/js/main.51d18eb7.js",
+    "main.css": "/artwebsiteproject/static/css/main.befaccc7.css",
+    "main.js": "/artwebsiteproject/static/js/main.118c36e1.js",
     "static/media/card-back-texture.jpg": "/artwebsiteproject/static/media/card-back-texture.4b66d0bf5e524e2a0afc.jpg",
     "static/media/card-front-texture.jpg": "/artwebsiteproject/static/media/card-front-texture.697c8f12d17d985fce0c.jpg",
+    "static/media/slide4.avif": "/artwebsiteproject/static/media/slide4.4360fb48c4f40f9188b0.avif",
     "static/media/paintEvent3.avif": "/artwebsiteproject/static/media/paintEvent3.918b54b16a09179a1810.avif",
     "static/media/lizardDrawing.avif": "/artwebsiteproject/static/media/lizardDrawing.4f097b911cc15d811621.avif",
     "static/media/paintEvent4.avif": "/artwebsiteproject/static/media/paintEvent4.4de5e2b29ca5c72256d3.avif",
@@ -37,7 +38,6 @@
     "static/media/girlScoutDrawingPicture.avif": "/artwebsiteproject/static/media/girlScoutDrawingPicture.af6e619e1a357af1717f.avif",
     "static/media/laMesaArt1.avif": "/artwebsiteproject/static/media/laMesaArt1.75ce5d23a97971f1fb39.avif",
     "static/media/MissionStatementPic4.avif": "/artwebsiteproject/static/media/MissionStatementPic4.f28ede463b4ae05274e2.avif",
-    "static/media/slide3.avif": "/artwebsiteproject/static/media/slide3.6e1de0e627ee3c0e7dbd.avif",
     "static/media/slide2.avif": "/artwebsiteproject/static/media/slide2.beedf0480b9d51889b20.avif",
     "static/media/corgyPicture.avif": "/artwebsiteproject/static/media/corgyPicture.255869e7033e19b5f990.avif",
     "static/media/bdayArtPartyPicture.avif": "/artwebsiteproject/static/media/bdayArtPartyPicture.990a057f6f15733ece59.avif",
@@ -51,11 +51,11 @@
     "static/media/footerimg.webp": "/artwebsiteproject/static/media/footerimg.60c2526a3d09efcefe34.webp",
     "static/media/lamesafront.avif": "/artwebsiteproject/static/media/lamesafront.820a68a81d36d8a580c0.avif",
     "index.html": "/artwebsiteproject/index.html",
-    "main.581ee258.css.map": "/artwebsiteproject/static/css/main.581ee258.css.map",
-    "main.51d18eb7.js.map": "/artwebsiteproject/static/js/main.51d18eb7.js.map"
+    "main.befaccc7.css.map": "/artwebsiteproject/static/css/main.befaccc7.css.map",
+    "main.118c36e1.js.map": "/artwebsiteproject/static/js/main.118c36e1.js.map"
   },
   "entrypoints": [
-    "static/css/main.581ee258.css",
-    "static/js/main.51d18eb7.js"
+    "static/css/main.befaccc7.css",
+    "static/js/main.118c36e1.js"
   ]
 }
