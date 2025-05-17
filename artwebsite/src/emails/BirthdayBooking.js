@@ -1,5 +1,6 @@
 import React from "react";
 import './EmailTemplate.css'
+//Email template for people interested in booking a birthday art party
 
 const BirthdayBooking = () => {
   const email = "artwithlarisse@gmail.com";
