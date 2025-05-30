@@ -62,7 +62,7 @@ const Navbar = () => {
                 <Link to="/locations/art-classes-la-mesa">La Mesa</Link>
               </li>
               <li className="dropdown-item">
-                <Link to="/locations/santee">Santee</Link>
+                <Link to="/locations/art-classes-santee">Santee</Link>
               </li>
               <li className="dropdown-item">
                 <Link to="/locations/bonita">Bonita</Link>

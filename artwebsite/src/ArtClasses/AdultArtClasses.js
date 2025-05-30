@@ -71,7 +71,7 @@ const AdultArtClasses = () => {
               La Mesa
             </Link>
             ,{" "}
-            <Link to="/locations/santee" className="location-link">
+            <Link to="/locations/art-classes-santee" className="location-link">
               Santee
             </Link>
             , and {" "}
