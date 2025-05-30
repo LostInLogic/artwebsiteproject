@@ -39,9 +39,6 @@ const Footer = () => {
             FAQ
           </Link>
         </div>
-        <div className="footer-q2">
-          <p>&copy; Art with Larisse</p>
-        </div>
       </div>
       <div className="footer-img">
         <img src={paintbrush} className="paintbrush-img" alt="Paintbrush"/>
