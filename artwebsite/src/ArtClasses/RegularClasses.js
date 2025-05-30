@@ -33,7 +33,7 @@ const RegularClasses = () => {
                     <Link to="/locations/art-classes-la-mesa">La Mesa</Link>
                   </button>
                   <button className="button2">
-                    <Link to="/locations/bonita">Bonita</Link>
+                    <Link to="/locations/art-classes-bonita">Bonita</Link>
                   </button>
                   <button className="button2">
                     <Link to="/locations/art-classes-santee">Santee</Link>
