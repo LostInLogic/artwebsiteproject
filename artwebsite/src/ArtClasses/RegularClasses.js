@@ -30,7 +30,7 @@ const RegularClasses = () => {
                 <li>We have 3 locations:</li>
                 <div className="class-options-location-boxes">
                   <button className="button2">
-                    <Link to="/locations/la-mesa">La Mesa</Link>
+                    <Link to="/locations/art-classes-la-mesa">La Mesa</Link>
                   </button>
                   <button className="button2">
                     <Link to="/locations/bonita">Bonita</Link>
