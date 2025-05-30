@@ -34,7 +34,7 @@ function App() {
         <Route path="/instructors" element={<Team />} />
         <Route path="/studio-policies" element={<StudioPolicies />} />
         <Route path="/birthday-parties" element={<BirthdayParties />} />
-        <Route path="/locations/la-mesa" element={<LocationsLaMesa />} />
+        <Route path="/locations/art-classes-la-mesa" element={<LocationsLaMesa />} />
         <Route path="/locations/santee" element={<LocationsSantee />} />
         <Route path="/locations/bonita" element={<LocationsBonita />} />
         <Route path="/adult-classes" element={<AdultArtClasses />} />
