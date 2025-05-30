@@ -33,7 +33,7 @@ const LocationCards = () => {
               <a className="card-email" href="mailto:artwithlarisse@gmail.com">
                 artwithlarisse@gmail.com
               </a>
-              <Link to="/locations/la-mesa" className="studio-page-link">
+              <Link to="/locations/art-classes-la-mesa" className="studio-page-link">
                 View Studio
               </Link>
             </div>
