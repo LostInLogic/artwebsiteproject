@@ -39,7 +39,10 @@ const Footer = () => {
             FAQ
           </Link>
         </div>
-      </div>
+        <div className="copyright-text">
+          <p>&copy; 2025 ART WITH LARISSE</p>
+        </div>
+      </div>  
       <div className="footer-img">
         <img src={paintbrush} className="paintbrush-img" alt="Paintbrush"/>
       </div>
