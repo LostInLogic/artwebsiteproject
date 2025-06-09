@@ -93,7 +93,7 @@ const Slide = () => {
                           Try your first class for free!
                         </div>
                         <Link
-                          to="/regular-classes"
+                          to="/childrens-art-classes"
                           className="free-class-button"
                         >
                           Learn More
