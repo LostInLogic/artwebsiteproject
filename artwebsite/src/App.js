@@ -18,7 +18,7 @@ import ScoutClasses from './ArtPartiesAndEvents/ScoutClasses';
 import AcrylicPaintEvents from "./ArtPartiesAndEvents/AcrylicPaintEvents";
 import CharterSchool from "./Tuition/CharterSchool";
 import MissionStatement from "./About/MissionStatement";
-import SummerCamp from "./SummerArtCamps/SummerCamp";
+import SummerCamp from "./SummerArtCamps/SummerArtCamp";
 import TuitionRates from "./Tuition/TuitionRates";
 
 
@@ -43,7 +43,7 @@ function App() {
         <Route path="/paint-parties" element={<AcrylicPaintEvents />} />
         <Route path="/charter-schools" element={<CharterSchool />} />
         <Route path="/mission" element={<MissionStatement />} />
-        <Route path="/summercamp" element={<SummerCamp />} />
+        <Route path="/summer-art-camp" element={<SummerCamp />} />
         <Route path="/tuition-rates" element={<TuitionRates />} />
       </Routes>
       <Footer />

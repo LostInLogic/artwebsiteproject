@@ -81,7 +81,7 @@ const Navbar = () => {
           {isDropdownOpen.camps && (
             <ul className="dropdown-menu">
               <li className="dropdown-item">
-                <Link to="/summercamp">Summer Art Camp Schedule</Link>
+                <Link to="/summer-art-camp">Summer Art Camp Schedule</Link>
               </li>
             </ul>
           )}

@@ -105,7 +105,7 @@ const Slide = () => {
                         <div className="slide-text">
                           Check out our summer art camps!
                         </div>
-                        <Link to="/summercamp" className="free-class-button">
+                        <Link to="/summer-art-camp" className="free-class-button">
                           View Schedule
                         </Link>
                       </>
