@@ -37,7 +37,7 @@ function App() {
         <Route path="/locations/art-classes-la-mesa" element={<LocationsLaMesa />} />
         <Route path="/locations/art-classes-santee" element={<LocationsSantee />} />
         <Route path="/locations/art-classes-bonita" element={<LocationsBonita />} />
-        <Route path="/adult-classes" element={<AdultArtClasses />} />
+        <Route path="/adult-art-classes" element={<AdultArtClasses />} />
         <Route path="/childrens-art-classes" element={<ChildrensArtClasses />} />
         <Route path="/scout-classes" element={<ScoutClasses />} />
         <Route path="/paint-parties" element={<AcrylicPaintEvents />} />

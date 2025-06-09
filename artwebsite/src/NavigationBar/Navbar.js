@@ -43,7 +43,7 @@ const Navbar = () => {
                 <Link to="/childrens-art-classes">Children's Art Classes</Link>
               </li>
               <li className="dropdown-item">
-                <Link to="/adult-classes">Adult Classes</Link>
+                <Link to="/adult-art-classes">Adult Art Classes</Link>
               </li>
             </ul>
           )}
