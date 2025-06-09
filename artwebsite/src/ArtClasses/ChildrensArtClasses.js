@@ -9,7 +9,7 @@ const ChildrensArtClasses = () => {
   return (
     <div className="ChildrensArtClass">
       <div className="title-text">
-        <h2>Art Classes</h2>
+        <h2>Children's Art Classes</h2>
       </div>
       <div className="img-photo">
         <img
