@@ -1,13 +1,13 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import './RegularClasses.css';
+import './ChildrensArtClasses.css';
 
-import mainPicture from "../img/RegularClassesImg/regclassestoppicture.avif";
-import aboutTrialsPicture from "../img/RegularClassesImg/regclasstrialpicture.avif";
+import mainPicture from "../img/ChildrensArtClassesImg/childrensartclassestoppicture.avif";
+import aboutTrialsPicture from "../img/ChildrensArtClassesImg/childrensartclassestrialpicture.avif";
 
-const RegularClasses = () => {
+const ChildrensArtClasses = () => {
   return (
-    <div className="RegularClass">
+    <div className="ChildrensArtClass">
       <div className="title-text">
         <h2>Art Classes</h2>
       </div>
@@ -103,4 +103,4 @@ const RegularClasses = () => {
   );
 }
 
-export default RegularClasses
+export default ChildrensArtClasses

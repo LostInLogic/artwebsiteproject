@@ -40,7 +40,7 @@ const Navbar = () => {
           {isDropdownOpen.classes && (
             <ul className="dropdown-menu">
               <li className="dropdown-item">
-                <Link to="/regular-classes">Regular Classes</Link>
+                <Link to="/childrens-art-classes">Children's Art Classes</Link>
               </li>
               <li className="dropdown-item">
                 <Link to="/adult-classes">Adult Classes</Link>

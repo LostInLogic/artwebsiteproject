@@ -13,7 +13,7 @@ import LocationsLaMesa from './Locations/LocationsLaMesa';
 import LocationsSantee from "./Locations/LocationsSantee";
 import LocationsBonita from "./Locations/LocationsBonita";
 import AdultArtClasses from './ArtClasses/AdultArtClasses';
-import RegularClasses from './ArtClasses/RegularClasses';
+import ChildrensArtClasses from './ArtClasses/ChildrensArtClasses';
 import ScoutClasses from './ArtPartiesAndEvents/ScoutClasses';
 import AcrylicPaintEvents from "./ArtPartiesAndEvents/AcrylicPaintEvents";
 import CharterSchool from "./Tuition/CharterSchool";
@@ -38,7 +38,7 @@ function App() {
         <Route path="/locations/art-classes-santee" element={<LocationsSantee />} />
         <Route path="/locations/art-classes-bonita" element={<LocationsBonita />} />
         <Route path="/adult-classes" element={<AdultArtClasses />} />
-        <Route path="/regular-classes" element={<RegularClasses />} />
+        <Route path="/childrens-art-classes" element={<ChildrensArtClasses />} />
         <Route path="/scout-classes" element={<ScoutClasses />} />
         <Route path="/paint-parties" element={<AcrylicPaintEvents />} />
         <Route path="/charter-schools" element={<CharterSchool />} />
