@@ -74,7 +74,7 @@ const CharterSchool = () => {
           <div className="charter-costs-box">
             <p className="charter-sub-title">1-hour lesson</p>
           </div>
-          <div className="charter-costs-box-price">$26.00</div>
+          <div className="charter-costs-box-price">$28.00</div>
           <div className="charter-costs-box">
             Charter Prices are different than regular because of the
             administrative work to process the paperwork each month
