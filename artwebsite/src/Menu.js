@@ -73,21 +73,21 @@ export default function TemporaryDrawer() {
             <List className="items" sx={{ pl: 2 }}>
               <ListItem
                 component={Link}
-                to="/regular-classes"
+                to="/childrens-art-classes"
                 onClick={handleCloseDrawer}
               >
                 <ListItemText
-                  primary="Regular Classes"
+                  primary="Children's Art Classes"
                   style={{ color: "black" }}
                 />
               </ListItem>
               <ListItem
                 component={Link}
-                to="/adult-classes"
+                to="/adult-art-classes"
                 onClick={handleCloseDrawer}
               >
                 <ListItemText
-                  primary="Adult Classes"
+                  primary="Adult Art Classes"
                   style={{ color: "black" }}
                 />
               </ListItem>
@@ -107,21 +107,21 @@ export default function TemporaryDrawer() {
             <List className="items" sx={{ pl: 2 }}>
               <ListItem
                 component={Link}
-                to="/locations/la-mesa"
+                to="/locations/art-classes-la-mesa"
                 onClick={handleCloseDrawer}
               >
                 <ListItemText primary="La Mesa" style={{ color: "black" }} />
               </ListItem>
               <ListItem
                 component={Link}
-                to="/locations/santee"
+                to="/locations/art-classes-santee"
                 onClick={handleCloseDrawer}
               >
                 <ListItemText primary="Santee" style={{ color: "black" }} />
               </ListItem>
               <ListItem
                 component={Link}
-                to="/locations/bonita"
+                to="/locations/art-classes-bonita"
                 onClick={handleCloseDrawer}
               >
                 <ListItemText primary="Bonita" style={{ color: "black" }} />
@@ -142,7 +142,7 @@ export default function TemporaryDrawer() {
             <List className="items" sx={{ pl: 2 }}>
               <ListItem
                 component={Link}
-                to="/summercamp"
+                to="/summer-art-camp"
                 onClick={handleCloseDrawer}
               >
                 <ListItemText
@@ -166,7 +166,7 @@ export default function TemporaryDrawer() {
             <List className="items" sx={{ pl: 2 }}>
               <ListItem
                 component={Link}
-                to="/birthday-parties"
+                to="/birthday-art-parties"
                 onClick={handleCloseDrawer}
               >
                 <ListItemText
