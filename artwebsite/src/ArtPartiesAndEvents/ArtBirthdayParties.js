@@ -1,12 +1,12 @@
 import React from 'react'
-import './BirthdayArtParties.css'
+import './ArtBirthdayParties.css'
 import BirthdayBooking from '../emails/BirthdayBooking'
 
 import bdayArtPartyPic from "../img/bdayArtPartyPicture.avif";
 import bdayArtPartyGamePic from "../img/birthdayArtPartyGamePicture.avif";
 import bdayArtParty1 from "../img/birthdayParty1.avif";
 
-const BirthdayArtParties = () => {
+const ArtBirthdayParties = () => {
   return (
     <div className='birthday-section'>
       <p className="birthday-title">Celebrate Your Birthday With Us!</p>
@@ -149,4 +149,4 @@ const BirthdayArtParties = () => {
   );
 }
 
-export default BirthdayArtParties
+export default ArtBirthdayParties

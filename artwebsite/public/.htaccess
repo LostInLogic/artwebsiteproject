@@ -9,7 +9,6 @@ Redirect 301 /summer_art_camp_santee_la_mesa_2024.htm /summer-art-camp
 Redirect 301 /summer_art_camp_santee_la_mesa_2025.htm /summer-art-camp
 Redirect 301 /summer_art_camp_santee_la_mesa.htm /summer-art-camp
 Redirect 301 /student_cost_information.htm /tuition-rates
-Redirect 301 /art_birthday_parties.htm /birthday-art-parties
 
 <IfModule mod_rewrite.c>
   RewriteEngine On

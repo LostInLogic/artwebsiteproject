@@ -166,11 +166,11 @@ export default function TemporaryDrawer() {
             <List className="items" sx={{ pl: 2 }}>
               <ListItem
                 component={Link}
-                to="/birthday-art-parties"
+                to="/art-birthday-parties"
                 onClick={handleCloseDrawer}
               >
                 <ListItemText
-                  primary="Birthday Art Parties"
+                  primary="Art Birthday Parties"
                   style={{ color: "black" }}
                 />
               </ListItem>

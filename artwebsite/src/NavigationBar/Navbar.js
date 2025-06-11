@@ -97,7 +97,7 @@ const Navbar = () => {
           {isDropdownOpen.parties && (
             <ul className="dropdown-menu">
               <li className="dropdown-item">
-                <Link to="/birthday-art-parties">Birthday Art Parties</Link>
+                <Link to="/art-birthday-parties">Art Birthday Parties</Link>
               </li>
               <li className="dropdown-item">
                 <Link to="/paint-parties">Paint Parties</Link>
