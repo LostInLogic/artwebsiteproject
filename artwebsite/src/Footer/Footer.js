@@ -39,6 +39,9 @@ const Footer = () => {
             FAQ
           </Link>
         </div>
+        <div className="credits">
+            <p>DESIGNED AND BUILT BY ALICE HUA AND JENNY QUAN</p>
+        </div>
       </div>
       <div className="footer-img">
         <img src={paintbrush} className="paintbrush-img" alt="Paintbrush"/>
