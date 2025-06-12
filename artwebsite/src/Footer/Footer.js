@@ -42,7 +42,7 @@ const Footer = () => {
         <div className="copyright-text">
           <p>&copy; 2025 Art With Larisse - All Rights Reserved</p>
         </div>
-      </div>  
+      </div>
       <div className="footer-img">
         <img src={paintbrush} className="paintbrush-img" alt="Paintbrush"/>
       </div>
