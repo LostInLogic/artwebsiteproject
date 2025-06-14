@@ -1,11 +1,14 @@
-Redirect 301 /art_studio_la_mesa_san_diego.htm /locations/la-mesa
-Redirect 301 /art_studio_santee_san_diego.htm /locations/santee
-Redirect 301 /art_studio_bonita_chula_vista.htm /locations/bonita
+Redirect 301 /art_studio_la_mesa_san_diego.htm /locations/art-classes-la-mesa
+Redirect 301 /art_studio_santee.htm /locations/art-classes-santee
+Redirect 301 /art_studio_bonita_chula_vista.htm /locations/art-classes-bonita
 Redirect 301 /art_teacher.htm /instructors
 Redirect 301 /frequently_asked_questions.htm /faq
-Redirect 301 /summer_art_camp_santee_la_mesa_2024.htm /summercamp
+Redirect 301 /summer_art_camp_santee_la_mesa_2022.htm /summer-art-camp
+Redirect 301 /summer_art_camp_santee_la_mesa_2023.htm /summer-art-camp
+Redirect 301 /summer_art_camp_santee_la_mesa_2024.htm /summer-art-camp
+Redirect 301 /summer_art_camp_santee_la_mesa_2025.htm /summer-art-camp
+Redirect 301 /summer_art_camp_santee_la_mesa.htm /summer-art-camp
 Redirect 301 /student_cost_information.htm /tuition-rates
-Redirect 301 /birthday_parties.htm /birthday-parties
 
 <IfModule mod_rewrite.c>
   RewriteEngine On

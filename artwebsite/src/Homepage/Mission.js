@@ -12,16 +12,20 @@ const Mission = () => {
         <p className="mission-title">Our Mission Statement:</p>
         <div className="text">
           <p>
-            Art brings joy into our world. We provide the studios and
-            instruction to find that joy.
+            Art brings light, expression, and meaning into our lives. 
+            At our studios, we provide the space, instruction, and inspiration to help you uncover that joy for yourself.
           </p>
           <p>
-            Our studios are a safe and happy space for art to flourish. We
-            thrive on molding the creativity of each student with applications
-            and techniques that have been around for hundreds of years. The
-            great masters of the Renaissance inspire us to find that inner
-            artist in all of our students. From beginning to advanced students,
-            let us help you create joy through art.
+            We’ve proudly provided art lessons in San Diego for over 20 years, 
+            offering a welcoming environment that nurtures creativity at every level—from curious beginners to seasoned artists.
+          </p>
+          <p>
+            Our teaching is inspired by the timeless brilliance of the Renaissance masters, 
+            helping each student connect with their inner artist through proven techniques and thoughtful guidance.
+          </p>
+          <p>
+            Whether you're picking up a brush for the first time or refining your craft, 
+            we’re here to support your artistic journey—and to help you create something truly joyful.
           </p>
         </div>
       </div>

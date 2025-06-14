@@ -39,8 +39,8 @@ const Footer = () => {
             FAQ
           </Link>
         </div>
-        <div className="credits">
-            <p>DESIGNED AND BUILT BY ALICE HUA AND JENNY QUAN</p>
+        <div className="copyright-text">
+          <p>&copy; 2025 Art With Larisse - All Rights Reserved</p>
         </div>
       </div>
       <div className="footer-img">

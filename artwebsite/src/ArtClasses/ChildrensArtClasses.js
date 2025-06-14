@@ -1,15 +1,15 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import './RegularClasses.css';
+import './ChildrensArtClasses.css';
 
-import mainPicture from "../img/RegularClassesImg/regclassestoppicture.avif";
-import aboutTrialsPicture from "../img/RegularClassesImg/regclasstrialpicture.avif";
+import mainPicture from "../img/ChildrensArtClassesImg/childrensartclassestoppicture.avif";
+import aboutTrialsPicture from "../img/ChildrensArtClassesImg/childrensartclassestrialpicture.avif";
 
-const RegularClasses = () => {
+const ChildrensArtClasses = () => {
   return (
-    <div className="RegularClass">
+    <div className="ChildrensArtClass">
       <div className="title-text">
-        <h2>Art Classes</h2>
+        <h2>Children's Art Classes</h2>
       </div>
       <div className="img-photo">
         <img
@@ -30,13 +30,13 @@ const RegularClasses = () => {
                 <li>We have 3 locations:</li>
                 <div className="class-options-location-boxes">
                   <button className="button2">
-                    <Link to="/locations/la-mesa">La Mesa</Link>
+                    <Link to="/locations/art-classes-la-mesa">La Mesa</Link>
                   </button>
                   <button className="button2">
-                    <Link to="/locations/bonita">Bonita</Link>
+                    <Link to="/locations/art-classes-bonita">Bonita</Link>
                   </button>
                   <button className="button2">
-                    <Link to="/locations/santee">Santee</Link>
+                    <Link to="/locations/art-classes-santee">Santee</Link>
                   </button>
                 </div>
                 <li>
@@ -103,4 +103,4 @@ const RegularClasses = () => {
   );
 }
 
-export default RegularClasses
+export default ChildrensArtClasses

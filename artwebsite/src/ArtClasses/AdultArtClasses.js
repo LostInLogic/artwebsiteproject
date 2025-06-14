@@ -67,15 +67,15 @@ const AdultArtClasses = () => {
         <ul>
           <li>
             We have 3 locations,{" "}
-            <Link to="/locations/la-mesa" className="location-link">
+            <Link to="/locations/art-classes-la-mesa" className="location-link">
               La Mesa
             </Link>
             ,{" "}
-            <Link to="/locations/santee" className="location-link">
+            <Link to="/locations/art-classes-santee" className="location-link">
               Santee
             </Link>
             , and {" "}
-            <Link to="/locations/bonita" className="location-link">
+            <Link to="/locations/art-classes-bonita" className="location-link">
               Bonita
             </Link>
             .

@@ -40,10 +40,10 @@ const Navbar = () => {
           {isDropdownOpen.classes && (
             <ul className="dropdown-menu">
               <li className="dropdown-item">
-                <Link to="/regular-classes">Regular Classes</Link>
+                <Link to="/childrens-art-classes">Children's Art Classes</Link>
               </li>
               <li className="dropdown-item">
-                <Link to="/adult-classes">Adult Classes</Link>
+                <Link to="/adult-art-classes">Adult Art Classes</Link>
               </li>
             </ul>
           )}
@@ -59,13 +59,13 @@ const Navbar = () => {
           {isDropdownOpen.locations && (
             <ul className="dropdown-menu">
               <li className="dropdown-item">
-                <Link to="/locations/la-mesa">La Mesa</Link>
+                <Link to="/locations/art-classes-la-mesa">La Mesa</Link>
               </li>
               <li className="dropdown-item">
-                <Link to="/locations/santee">Santee</Link>
+                <Link to="/locations/art-classes-santee">Santee</Link>
               </li>
               <li className="dropdown-item">
-                <Link to="/locations/bonita">Bonita</Link>
+                <Link to="/locations/art-classes-bonita">Bonita</Link>
               </li>
             </ul>
           )}
@@ -81,7 +81,7 @@ const Navbar = () => {
           {isDropdownOpen.camps && (
             <ul className="dropdown-menu">
               <li className="dropdown-item">
-                <Link to="/summercamp">Summer Art Camp Schedule</Link>
+                <Link to="/summer-art-camp">Summer Art Camp Schedule</Link>
               </li>
             </ul>
           )}
@@ -97,7 +97,7 @@ const Navbar = () => {
           {isDropdownOpen.parties && (
             <ul className="dropdown-menu">
               <li className="dropdown-item">
-                <Link to="/birthday-parties">Birthday Art Parties</Link>
+                <Link to="/art-birthday-parties">Art Birthday Parties</Link>
               </li>
               <li className="dropdown-item">
                 <Link to="/paint-parties">Paint Parties</Link>

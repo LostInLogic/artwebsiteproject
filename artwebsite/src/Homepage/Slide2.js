@@ -93,7 +93,7 @@ const Slide = () => {
                           Try your first class for free!
                         </div>
                         <Link
-                          to="/regular-classes"
+                          to="/childrens-art-classes"
                           className="free-class-button"
                         >
                           Learn More
@@ -105,7 +105,7 @@ const Slide = () => {
                         <div className="slide-text">
                           Check out our summer art camps!
                         </div>
-                        <Link to="/summercamp" className="free-class-button">
+                        <Link to="/summer-art-camp" className="free-class-button">
                           View Schedule
                         </Link>
                       </>
