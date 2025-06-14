@@ -1,6 +1,7 @@
 import React from "react";
 import "./SummerArtCamp.css";
 import SummerCampBooking from "../emails/CampRSVP";
+import SummerCampWaitlist from "../emails/CampWaitlist";
 import Camp1 from "../img/SummerArtCampsImg/artcamp1.avif";
 import Camp2 from "../img/SummerArtCampsImg/artcamp2.avif";
 import Camp3 from "../img/SummerArtCampsImg/artcamp3.avif";
@@ -46,7 +47,10 @@ const SummerArtCamp = () => {
         </div>
         <div className="summer-schedule-box">
           <p className="summer-schedule-text">
-            <SummerCampBooking />
+            Sold Out
+          </p>
+          <p className="summer-schedule-text">
+            <SummerCampWaitlist/>
           </p>
         </div>
         <div className="summer-schedule-box">
@@ -62,7 +66,10 @@ const SummerArtCamp = () => {
         </div>
         <div className="summer-schedule-box">
           <p className="summer-schedule-text">
-            <SummerCampBooking />
+            Sold Out
+          </p>
+          <p className="summer-schedule-text">
+            <SummerCampWaitlist/>
           </p>
         </div>
         <div className="summer-schedule-box">
@@ -78,7 +85,10 @@ const SummerArtCamp = () => {
         </div>
         <div className="summer-schedule-box">
           <p className="summer-schedule-text">
-            <SummerCampBooking />
+            Sold Out
+          </p>
+          <p className="summer-schedule-text">
+            <SummerCampWaitlist/>
           </p>
         </div>
         <div className="summer-schedule-box">
@@ -110,7 +120,10 @@ const SummerArtCamp = () => {
         </div>
         <div className="summer-schedule-box">
           <p className="summer-schedule-text">
-            <SummerCampBooking />
+            Sold Out
+          </p>
+          <p className="summer-schedule-text">
+            <SummerCampWaitlist/>
           </p>
         </div>
         <div className="summer-schedule-box">
