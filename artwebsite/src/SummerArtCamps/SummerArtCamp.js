@@ -100,11 +100,14 @@ const SummerArtCamp = () => {
         </div>
 
         <div className="summer-schedule-box">
-          <p className="summer-schedule-text">July 7th - June 10th</p>
+          <p className="summer-schedule-text">July 7th - July 10th</p>
         </div>
         <div className="summer-schedule-box">
           <p className="summer-schedule-text">
-            <SummerCampBooking />
+            Sold Out
+          </p>
+          <p className="summer-schedule-text">
+            <SummerCampWaitlist/>
           </p>
         </div>
         <div className="summer-schedule-box">
@@ -139,7 +142,10 @@ const SummerArtCamp = () => {
         </div>
         <div className="summer-schedule-box">
           <p className="summer-schedule-text">
-            <SummerCampBooking />
+            Sold Out
+          </p>
+          <p className="summer-schedule-text">
+            <SummerCampWaitlist/>
           </p>
         </div>
         <div className="summer-schedule-box">
